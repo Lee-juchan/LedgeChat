@@ -1,0 +1,11 @@
+./src/server/ExecModes/impl/UserExecMode.java
+./src/server/ExecModes/impl/ComExecMode.java
+./src/server/ExecModes/impl/AuthExecMode.java
+./src/server/ExecModes/impl/ChatExecMode.java
+./src/server/ExecModes/impl/EchoExecMode.java
+./src/server/ExecModes/impl/SqlExecMode.java
+./src/server/ExecModes/Processor.java
+./src/server/ExecModes/ExecMode.java
+./src/server/ServerDemo.java
+./src/server/Communication.java
+./src/server/Server.java

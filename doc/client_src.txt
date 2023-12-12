@@ -1,0 +1,10 @@
+./src/client/Recv.java
+./src/client/Modes/impl/ComMode.java
+./src/client/Modes/impl/ChatMode.java
+./src/client/Modes/impl/AuthMode.java
+./src/client/Modes/impl/UserMode.java
+./src/client/Modes/impl/EchoMode.java
+./src/client/Modes/impl/SqlMode.java
+./src/client/Modes/Send.java
+./src/client/Modes/Mode.java
+./src/client/Client.java
